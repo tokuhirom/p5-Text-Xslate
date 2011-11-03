@@ -13,6 +13,9 @@ msgstr ""
 msgid "Hello!"
 msgstr "こんにちは！"
 
+msgid "Hello! %1."
+msgstr "こんにちは！ %1。"
+
 msgid "tokyo"
 msgstr "東京"
 
